@@ -1,0 +1,29 @@
+    # Byte-code files
+    *.pyc
+    __pycache__/
+
+    # Virtual environment
+    venv/
+    .venv/
+
+    # Distribution / build files
+    dist/
+    build/
+    *.egg-info/
+    .eggs/
+
+    # Editor/IDE specific files (examples)
+    .vscode/
+    .idea/
+    *.sublime-project
+    *.sublime-workspace
+
+    # OS-specific files
+    .DS_Store
+    Thumbs.db
+
+    # Log files
+    *.log
+
+    # Environment variables (if used)
+    .env
